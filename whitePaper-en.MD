@@ -154,7 +154,7 @@ Data reference: Copyrights of the "The Graver Robbers’ Chronicles” are worth
 
 # READ Token
 
-READ is a digital asset tokens based on blockchain technology issued by the Singapore-based non-profit READIO _ Foundation (which approved by ACRA,Singapore), representing read rights in READIO _ protocol , The total is limited and can not be issued additional, all transactions on the chain are transparent and can be found.
+READ is a digital asset tokens based on blockchain technology issued by the Singapore-based non-profit READIO Foundation (which approved by ACRA,Singapore), representing read rights in READIO _ protocol , The total is limited and can not be issued additional, all transactions on the chain are transparent and can be found.
 
 ### Generation of READ
 
@@ -190,10 +190,7 @@ READ rewards creators for writing consistently and creatively through rewards by
 
 # READ Issue Mechanism
 
-READ will be produced with every new block. Its amount will be zero at the first place and then grows with newly mined blocks. After about 30 times of halving, a new block will mine about 0.98 until reaching the ceiling of 2.1 billion in about 20 years. 
-
-The block interval of Lianzai.com will be about 30 seconds. In the first 2 years, each new block will mine 500READs and a halving happens every 2.1 million blocks. (Halving term: 2100000*1/60/24/365=1.9977Years)
-
+READ will be produced with every new block. Its amount will be zero at the first place and then grows with newly mined blocks. 
 
 # POWR Mining Algorithm
 
